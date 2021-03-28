@@ -1,8 +1,8 @@
 # VK_Network_Science_Project
 Descriptive analysis for my social ego-network
 Network Summary (VK_project_1_make_graph.ipynb and VK_project_2_Summary.ipynb)
-●	Network source and preprocessing
-●	Node/Edge attributes
+●	Network source and preprocessing\\
+●	Node/Edge attributes\\
 ●	Size, Order
 ●	Diameter, radius
 ●	Clustering Coefficient (global, average local, histogram of locals)
